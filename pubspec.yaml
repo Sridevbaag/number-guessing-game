@@ -1,0 +1,35 @@
+name: number_guessing_game
+description: A number guessing game with Flutter
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^6.1.0
+  shared_preferences: ^2.3.3  # ← For saving high scores
+  share_plus: ^10.1.2         # ← For sharing scores
+  vibration: ^2.0.0           # ← For better vibration control
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/sounds/correct.mp3
+    - assets/sounds/wrong.mp3
+    - assets/icon/app_icon.png

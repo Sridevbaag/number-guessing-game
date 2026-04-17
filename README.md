@@ -44,7 +44,7 @@ A beautiful and interactive number guessing game built with Flutter, featuring s
 
 ## 📸 Screenshots
 
-_(Add screenshots here once you have them)_
+<img src="screenshots/gameplay.png" width="250"> <img src="screenshots/win.png" width="250"> <img src="screenshots/stats.png" width="250"> <img src="screenshots/gameover.png" width="250">
 
 ## 🚀 Getting Started
 

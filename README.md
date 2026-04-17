@@ -5,6 +5,7 @@ A beautiful and interactive number guessing game built with Flutter, featuring s
 ![Flutter](https://img.shields.io/badge/Flutter-3.41.6-blue)
 ![Dart](https://img.shields.io/badge/Dart-3.5.0-blue)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-green)
+<img alt="repo-language-count" src="https://img.shields.io/github/languages/count/Sridevbaag/number-guessing-game?style=flat&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
 
 ## ✨ Features
 

@@ -131,7 +131,7 @@ This project helped me learn:
 
 **Sridev Bag**
 - GitHub: [@Sridevbaag](https://github.com/Sridevbaag)
-- LinkedIn: [Add your LinkedIn]
+- LinkedIn: [Sridevbaag](https://www.linkedin.com/in/sridev-bag/)
 
 ## 📝 License
 
